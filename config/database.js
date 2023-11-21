@@ -13,7 +13,6 @@
           schema: env('DATABASE_SCHEMA', 'public'), // Not required
         },
       }
-     
     });
  
 // const path = require('path');
